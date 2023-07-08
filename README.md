@@ -12,7 +12,7 @@ Made by Constellation.
 
 Adding your own functions:
 
-OpenWatson is opensourced, that means the script is unobfuscated and you can do whatever you want with it, however OpenWatson uses *o* license.
+OpenWatson is opensourced, that means the script is unobfuscated and you can do whatever you want with it, however OpenWatson uses *GPL-3.0* license.
 
 To add your own functions, copy the script from Roblox Module or this github page, edit it and publish your edited module, then just change the id in require to your module asset id. 
 
