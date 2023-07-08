@@ -13,4 +13,4 @@ Adding your own functions:
 
 To add your own functions, copy the script from Roblox Module or this github page, edit it and publish your edited module, then just change the id in require to your module asset id. 
 
-**If you are using a custom version of open watson, you will not receive automatic updates.**
+**If you are using a custom version of OpenWatson, you will not receive automatic updates.**
