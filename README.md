@@ -1,6 +1,6 @@
 # openwatson
 **Free and opensourced licensing system**
-Made by Constellation.
+
 
 *How to use:*
 
