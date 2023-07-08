@@ -14,5 +14,6 @@ Adding your own functions:
 
 OpenWatson is opensourced, that means the script is unobfuscated and you can do whatever you want with it, however OpenWatson uses *o* license.
 
-To add your own functions, copy the script from Roblox Module or this github page, edit it and publish your edited module, then just change id in require to your module asset id. 
+To add your own functions, copy the script from Roblox Module or this github page, edit it and publish your edited module, then just change the id in require to your module asset id. 
+
 **If you are using a custom version of open watson, you will not receive automatic updates.**
