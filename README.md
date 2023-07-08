@@ -1,13 +1,12 @@
 # openwatson
 **Free and opensourced licensing system**
 
+How to use:
 
-*How to use:*
-
-1. Add OpenWatson module to your inventory (link)
-2. Add script from ```normal script example.lua``` to your script.
+Add script from ```normal script example.lua``` to your script and change the details in WatsonInfo.
 
 *you're done!*
+
 
 Adding your own functions:
 
